@@ -18,10 +18,10 @@ A simple Android app that enables messaging between two nearby devices using **B
 
 | Category        | Tools & Technologies                   |
 |-----------------|-----------------------------------------|
-| Language        | Kotlin                                  |
+| Language        | Kotlin (Official Android language)      |
 | UI Toolkit      | Jetpack Compose *(Modern declarative UI)* |
 | Core Libraries  | `BluetoothAdapter`, `BluetoothSocket`   |
-| IDE             | Android Studio *(Giraffe / Hedgehog)*   |
+| IDE             | Android Studio *(Narwhal)*   |
 | Version Control | Git + GitHub                            |
 
 ---
